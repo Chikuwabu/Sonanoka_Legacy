@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: e9469b7e343086b4b90b63d0f0969b53
+timeCreated: 1491742508
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: judge_0
+    21300002: judge_1
+    21300004: judge_2
+    21300006: judge_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: judge_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 338
+        width: 487
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: judge_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 229
+        width: 312
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: judge_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 179
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: judge_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 279
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -121, y: -108}
+      - {x: -123, y: -110}
+      - {x: -212, y: -127}
+      - {x: -216, y: -131}
+      - {x: -216, y: -150}
+      - {x: -214, y: -152}
+      - {x: -209, y: -152}
+      - {x: -217, y: -152}
+      - {x: -217, y: -138}
+      - {x: -221, y: -119}
+      - {x: -228, y: -111}
+      - {x: -283, y: -109}
+      - {x: -284, y: -110}
+      - {x: -284, y: -192}
+      - {x: -107, y: -192}
+      - {x: -96, y: -191}
+      - {x: -96, y: -108}
+    - - {x: -94, y: -163}
+      - {x: -94, y: -191}
+      - {x: -67, y: -191}
+      - {x: -67, y: -163}
+    - - {x: -65, y: -163}
+      - {x: -65, y: -191}
+      - {x: -40, y: -191}
+      - {x: -37, y: -188}
+      - {x: -37, y: -165}
+      - {x: -39, y: -163}
+    - - {x: -33, y: -163}
+      - {x: -35, y: -165}
+      - {x: -35, y: -189}
+      - {x: -33, y: -191}
+      - {x: -10, y: -191}
+      - {x: -8, y: -189}
+      - {x: -8, y: -165}
+      - {x: -10, y: -163}
+    - - {x: -141, y: -12}
+      - {x: -143, y: -14}
+      - {x: -167, y: -28}
+      - {x: -168, y: -9}
+      - {x: -265, y: -9}
+      - {x: -284, y: -30}
+      - {x: -284, y: -70}
+      - {x: -279, y: -92}
+      - {x: -113, y: -92}
+      - {x: -113, y: -14}
+      - {x: -114, y: -10}
+    - - {x: -250, y: 60}
+      - {x: -250, y: 42}
+      - {x: -248, y: 40}
+      - {x: -247, y: 38}
+      - {x: -254, y: 47}
+      - {x: -252, y: 66}
+      - {x: -217, y: 63}
+      - {x: -211, y: 63}
+      - {x: -209, y: 65}
+      - {x: -208, y: 81}
+      - {x: -208, y: 88}
+      - {x: -218, y: 95}
+      - {x: -277, y: 95}
+      - {x: -284, y: 73}
+      - {x: -284, y: 30}
+      - {x: -266, y: 13}
+      - {x: -217, y: 13}
+      - {x: -208, y: 15}
+      - {x: -208, y: 60}
+      - {x: -210, y: 62}
+      - {x: -248, y: 62}
+    - - {x: -208, y: 13}
+      - {x: 23, y: 13}
+      - {x: 23, y: 94}
+      - {x: -135, y: 94}
+      - {x: -208, y: 89}
+    - - {x: -104, y: 201}
+      - {x: -146, y: 183}
+      - {x: -157, y: 175}
+      - {x: -163, y: 170}
+      - {x: -166, y: 164}
+      - {x: -168, y: 157}
+      - {x: -169, y: 140}
+      - {x: -168, y: 139}
+      - {x: -179, y: 150}
+      - {x: -175, y: 154}
+      - {x: -167, y: 164}
+      - {x: -164, y: 168}
+      - {x: -164, y: 169}
+      - {x: -160, y: 173}
+      - {x: -154, y: 181}
+      - {x: -186, y: 184}
+      - {x: -226, y: 198}
+      - {x: -282, y: 198}
+      - {x: -284, y: 196}
+      - {x: -284, y: 117}
+      - {x: -33, y: 117}
+      - {x: -28, y: 118}
+      - {x: -28, y: 201}
+    - - {x: -26, y: 201}
+      - {x: -26, y: 117}
+      - {x: 194, y: 117}
+      - {x: 194, y: 201}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
